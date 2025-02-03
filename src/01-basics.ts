@@ -48,7 +48,11 @@ const friend1 : Friend = {
     },
   };
   
-export const colleagues: Colleague[] = [colleague1, colleague2, colleague3];
+  export const colleagues : ColleagueHistory = {
+    current: [colleague1, colleague2, colleague3],
+    former: [],
+  };
+  
 
   
   //console.log(colleagues.current[0]);
