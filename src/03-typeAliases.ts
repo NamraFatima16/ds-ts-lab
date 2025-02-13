@@ -82,4 +82,4 @@ import {ColleagueV2,Friend,Buddy,BuddyList,Administrator,} from "./myType";
 
       }
 
-      console.log(getBuddyListFriends(myFootballBuddies))
+      //console.log(getBuddyListFriends(myFootballBuddies))
